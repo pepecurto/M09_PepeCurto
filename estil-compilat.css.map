@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,IAAI;EACA,SAAS,EAHC,IAAI;EAId,KAAK,EALQ,GAAG;;AAQpB,EAAE;EACE,KAAK,EAVM,IAAI",
+"sources": ["estil.scss"],
+"names": [],
+"file": "estil-compilat.css"
+}

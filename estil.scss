@@ -1,0 +1,12 @@
+$color-lletra: blue;
+$color-paragraf: red;
+$font-lletra: 20px;
+
+body{
+    font-size: $font-lletra;
+    color:$color-paragraf
+}
+
+h1{
+    color:$color-lletra;
+}
